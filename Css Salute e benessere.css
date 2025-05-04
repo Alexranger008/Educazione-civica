@@ -1,0 +1,39 @@
+﻿body {
+    background-color: aquamarine; 
+    font-family: Arial, sans-serif;
+    color: #222;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+
+h1 {
+    color: #2e8b57;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: cyan;
+}
+
+ul, ol {
+    margin-left: 30px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+table {
+    width: 80%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+    table th, table td {
+        border: 1px solid #ccc;
+        padding: 10px;
+        text-align: center;
+    }
+
+
